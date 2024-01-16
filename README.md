@@ -10,6 +10,4 @@ First, I started measuring and recording the environmental factors that I could 
 
 With my results, I increased the adequate working time during the day by creating ideal individual working values and using the feedback system.
 
-![image](https://github.com/rexhammer98/ytu012024/assets/62433646/0a381abf-2ad6-4165-b044-d804884b8b20)
-
 This repostery is used for thesis.
