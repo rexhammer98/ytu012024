@@ -11,3 +11,5 @@ First, I started measuring and recording the environmental factors that I could 
 With my results, I increased the adequate working time during the day by creating ideal individual working values and using the feedback system.
 
 This repostery is used for thesis.
+
+PS: Every individual can run "monitoring.py" and create his/her dataset according to actions. Dataset which used in thesis is not added in this repostery because of ethical concerns.
