@@ -13,3 +13,11 @@ With my results, I increased the adequate working time during the day by creatin
 This repostery is used for thesis.
 
 PS: Every individual can run "monitoring.py" and create his/her dataset according to actions. Dataset which used in thesis is not added in this repostery because of ethical concerns.
+
+To run all the process, these scripts need to run in order:
+1. monitoring.py
+2. analysing_raw_dataset.py
+3. cleaning_results.py
+4. randomforestclassifier.py
+
+Important Note: All scripts has csv outputs for different reason like last_precessed_timestamp or condition_threshold. Unless you want to start all over again, please do not delete the outputs.
